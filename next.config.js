@@ -4,7 +4,8 @@ const nextConfig = {
         domains:[
             'cdn1.theimageapi.com',
             'cdn2.thecatapi.com',
-            '27.media.tumblr.com'
+            '27.media.tumblr.com',
+            '25.media.tumblr.com'
         ]
     },
     env: {

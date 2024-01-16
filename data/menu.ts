@@ -1,6 +1,6 @@
 export const menus = [
     {
-      title: "所有猫猫",
+      title: "随机猫猫",
       href: "/cats",
     },
     {
